@@ -1,5 +1,5 @@
 title = "HotDiSec 2026"
-baseURL = "https://hotdisec-workshop.github.io/2026/"
+baseURL = "https://hotdisec.github.io/website_2026/"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
 resourceDir = "./resources"
 
@@ -42,10 +42,10 @@ cover_dimming_class = "bg-black-60"
 recent_posts_number = 3
 custom_css = ["custom.scss"]
 
-#[params.ananke.social.share]
-#networks = [
+# [params.ananke.social.share]
+# networks = [
 #  "bluesky"
-#]
+# ]
 
 # [params.ananke.social.follow]
 # networks = [
