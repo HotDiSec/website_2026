@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hotdisec-workshop.github.io/sitemap.xml
