@@ -5,24 +5,64 @@ title: "Call for Papers"
 #     weight: 10
 ---
 
-<!-- __Authors are invited to submit original papers in PDF format to the [submission website](https://easychair.org/my/conference?conf=ansya2025).__ -->
+__Authors are invited to submit original papers in PDF format to the [submission website](TBD).__
 
 ## 📃 Submission Type
 
-TBD.
+HotDiSec provides a premier platform for sharing high-impact research, rigorous critiques, and forward-looking discussion papers. We invite researchers and practitioners to submit contributions in the following categories:
+- **Full or short research papers:** providing thorough insights into technical challenges, novel attacks, and robust defenses in the design and deployment of distributed ML systems. Full papers should be limited to *16 pages* (excluding refrences and appendices), while short papers should be limited to *6 pages* (excluding references and appendices).
+- **Position papers:** offering constructive critiques of the security assumptions in state-of-the-art distributed ML frameworks or their implementation in adversarial real-world scenarios.
+- **Experimental evaluation papers:** presenting empirical studies on the (un)successful or unexpected performance of security primitives (e.g., trusted execution environments, multi-party computation, homomorphic encryption, etc.) in distributed learning.
+- **System and report papers:** presenting valuable "lessons learned" from deploying secure distributed ML in production or large-scale testbeds.
 
 ## 📋 Submission Guidelines
 
-TBD.
+HotDiSec follows the submission standards of the main conference. The guidelines in a nutshell are:
+- Sumbissions should be in **[ESORICS Latex LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)**;
+- Submissions must be exported in PDF format;
+- Submissions must not exceed **16 pages (excluding references and appendicies) and 20 pages upmost**;
+- Submissions must be anonymised for **double-blind** review.
 
 ## 🔬 Topics of Interest
 
-TBD.
+We invite submissions on "hot" topics solicited as position papers, "lessons learned" from negative results, and novel research contributions on topics including, but not limited to:
+1. **Attacks and defenses in distributed ML**
+    - Data poisoning in federated and split learning
+    - Model poisoning in federated and split learning
+    - Backdoor attacks in federated and split learning
+    - Sybil attacks against decentralized learning
+    - Consensus vulnerabilities in decentralized learning systems
+    - Evasion attacks targeting distributed inference
+    - Byzantine-robust aggregation protocols 
+    - Fault-tolerant learning
+    - Robustness of foundation models and LLMs over distributed networks
+ 
+2. **Privacy-preserving distributed ML**
+    - Gradient leakage attacks in federated learning
+    - Model inversion attacks in federated learning
+    - Differential privacy in distributed settings
+    - Secure multi-party computation for distributed ML
+    - Homomorphic encryption for distributed ML
+    - Trusted execution environments for distributed ML
+    - Hardware-assisted security for edge training
+    - Zero-trust architectures distributed ML
+    - Scalability of cryptographic protocols in federated learning
 
+3. **Distributed ML for Security Applications**
+    - Distributed intrusion detection systems
+    - Collaborative malware detection
+    - Collaborative threat intelligence
+    - Privacy-preserving anomaly detection
 
 ## 📝 Reviewing Format
 
-
+Each submission, regardless of type, will undergo a traditional double-blind review process. Additionally, all papers will go through the standard assessment in which reviwers will be asked to consider the submission focusing on its:
+- **scope:** is the paper on-topic w.r.t. the workshop’s track or theme?
+- **significance:** is the proposed idea relevant for the community?
+- **soundness:** is the approach proposed in the paper correct and robust? Are experiments (if any) well-designed?
+- **clarity:** is the paper clear and well organized? Is the discussion complete?
+- **contextualization:** is relevant background and related literature being adequately referenced?
+- **novelty:** is the contribution novel either from a conceptual or technical perspective?
 
 <!-- ## 📖 Camera-ready papers
 
