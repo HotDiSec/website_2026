@@ -45,4 +45,9 @@ title: "Committee"
 
 ## Program Committee
 
-TBD.
+- Gianluca Capozzi, Karlsruhe Institute of Technology
+- Giorgia di Pietro, Sapienza University of Rome
+- Alessandro Palma, Sapienza University of Rome
+
+TBC.
+
