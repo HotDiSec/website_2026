@@ -6,7 +6,7 @@ title: "Important Dates"
 ---
 
 ### Paper submission deadline ###
-🚨 __June 10__, 2026, AoE
+🚨 __June 15__, 2026, AoE
 
 ### Author Notification ###
 📬 __August 1__, 2026, AoE
@@ -15,7 +15,7 @@ title: "Important Dates"
 🚨 __September 1__, 2026, AoE
 
 ### Workshop Date ###
-🔈 TBD, 2026, __CET__
+🔈 __September 17-18__, 2026, __CET__
 
 <!-- ### \[Optional\] Proceedings Camera-ready Submission ###
 📷 __November 9__, 2025, AoE -->
