@@ -5,7 +5,7 @@ title: "Call for Papers"
 #     weight: 10
 ---
 
-__Authors are invited to submit original papers in PDF format to the [submission website](TBD).__
+__Authors are invited to submit original papers in PDF format to the [submission website](https://easychair.org/conferences/?conf=esorics2026).__
 
 ## 📃 Submission Type
 
