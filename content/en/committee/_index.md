@@ -45,8 +45,13 @@ title: "Committee"
 
 ## Program Committee
 
+- Briland Hitaj, Confidencial Inc.
+- Hamed Haddadi, Imperial College London
+- Matteo Mendula, Centre Tecnologic de Telecomunicacions de Cataluya
 - Gianluca Capozzi, Karlsruhe Institute of Technology
+- Rui Wang, Delft University of Technology
 - Giorgia di Pietro, Sapienza University of Rome
+- Dazhuang Liu, Delft University of Technology
 - Alessandro Palma, Sapienza University of Rome
 
 TBC.
