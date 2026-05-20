@@ -45,6 +45,7 @@ title: "Committee"
 
 ## Program Committee
 
+- Min Chen, VU Amsterdam
 - Briland Hitaj, Confidencial Inc.
 - Hamed Haddadi, Imperial College London
 - Matteo Mendula, Centre Tecnologic de Telecomunicacions de Cataluya
@@ -53,6 +54,5 @@ title: "Committee"
 - Giorgia di Pietro, Sapienza University of Rome
 - Dazhuang Liu, Delft University of Technology
 - Alessandro Palma, Sapienza University of Rome
-
-TBC.
+- Cristian Manca, University of Cagliari
 
