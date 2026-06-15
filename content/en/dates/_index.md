@@ -6,7 +6,7 @@ title: "Important Dates"
 ---
 
 ### Paper submission deadline ###
-🚨 __June 15__, 2026, AoE
+🚨 <del>__June 15__, 2026, AoE</del> __June 30__, 2026, AoE
 
 ### Author Notification ###
 📬 __August 1__, 2026, AoE
