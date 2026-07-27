@@ -12,10 +12,7 @@ title: "Important Dates"
 📬 __July 31__, 2026, AoE
 
 ### Web-site Camera-ready Submission ###
-🚨 __August 22__, 2026, AoE
+📷 __August 15__, 2026, AoE
 
 ### Workshop Date ###
 🔈 __September 18__, 2026, __CET__
-
-<!-- ### \[Optional\] Proceedings Camera-ready Submission ###
-📷 __November 9__, 2025, AoE -->
