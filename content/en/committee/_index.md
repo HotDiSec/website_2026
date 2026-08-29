@@ -42,17 +42,14 @@ title: "Committee"
 ## Keynote Speaker
 
 <div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap; margin-bottom: 30px;">
-
-  <img
-    src="./giovanni_apruzzese.png"
-    ex: 1; min-width: 250px;">
-    <h3 style="margin-top: 0;">Prof. Giovanni Apruzzese</h3>
-    <p>
+  <img src="./giovanni_apruzzese.png" alt="Prof. Giovanni Apruzzese" style="widthle="margin: 0 0 10px 0;">Prof. Giovanni Apruzzese</h3>
+    <p style="margin: 0;">
       <strong>Assistant Professor</strong><br>
       Reykjavik University<br>
       University of Liechtenstein
     </p>
   </div>
+</div>
 
 </div>
 
