@@ -30,6 +30,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://hotdisec.github.io/website_2026/previous_editions/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://hotdisec.github.io/website_2026/program/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
