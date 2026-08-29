@@ -6,15 +6,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hotdisec.github.io/website_2026/attend/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://hotdisec.github.io/website_2026/cfp/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://hotdisec.github.io/website_2026/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -26,7 +18,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hotdisec.github.io/website_2026/</loc>
+    <loc>https://hotdisec.github.io/website_2026/program/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -34,7 +26,15 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hotdisec.github.io/website_2026/program/</loc>
+    <loc>https://hotdisec.github.io/website_2026/attend/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://hotdisec.github.io/website_2026/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://hotdisec.github.io/website_2026/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
