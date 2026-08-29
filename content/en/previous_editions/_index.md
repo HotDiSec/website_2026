@@ -1,6 +1,6 @@
 ---
 title: "Previous Editions"
-# weight: 70
+weight: 60
 ---
 
 # Previous Editions

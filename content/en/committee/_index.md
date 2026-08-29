@@ -1,8 +1,6 @@
 ---
 title: "Committee"
-# menu:
-#   main:
-#     weight: 30
+weight: 30
 ---
 
 ## Organizing Committee ##

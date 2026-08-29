@@ -1,8 +1,6 @@
 ---
 title: "Accepted Papers"
-# menu:
-#   main:
-#     weight: 40
+weight: 10
 ---
 
 - **Secure Aggregation for Privacy-Preserving Federated Learning on Clinical EEG Data**

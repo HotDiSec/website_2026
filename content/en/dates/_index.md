@@ -1,8 +1,6 @@
 ---
 title: "Important Dates"
-# menu:
-#   main:
-#     weight: 20
+weight: 40
 ---
 
 ### Paper submission deadline ###

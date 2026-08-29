@@ -1,8 +1,6 @@
 ---
 title: "Call for Papers"
-# menu:
-#   main:
-#     weight: 10
+weight: 20
 ---
 
 __Authors are invited to submit original papers in PDF format to the [submission website](https://easychair.org/conferences/?conf=esorics2026).__
