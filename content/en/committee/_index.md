@@ -41,7 +41,20 @@ title: "Committee"
 
 ## Keynote Speaker
 
-- TBD.
+<div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap; margin-bottom: 30px;">
+
+  <img
+    src="./giovanni_apruzzese.png"
+    ex: 1; min-width: 250px;">
+    <h3 style="margin-top: 0;">Prof. Giovanni Apruzzese</h3>
+    <p>
+      <strong>Assistant Professor</strong><br>
+      Reykjavik University<br>
+      University of Liechtenstein
+    </p>
+  </div>
+
+</div>
 
 ## Program Committee
 
