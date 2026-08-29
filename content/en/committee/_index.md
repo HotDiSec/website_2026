@@ -39,19 +39,36 @@ title: "Committee"
     </tr>
  </table>
 
-## Keynote Speaker
+## Keynote Speaker ##
 
-<div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap; margin-bottom: 30px;">
-  <img src="./giovanni_apruzzese.png" alt="Prof. Giovanni Apruzzese" style="widthle="margin: 0 0 10px 0;">Prof. Giovanni Apruzzese</h3>
-    <p style="margin: 0;">
-      <strong>Assistant Professor</strong><br>
-      Reykjavik University<br>
-      University of Liechtenstein
-    </p>
-  </div>
-</div>
-
-</div>
+<table>
+    <col width="20%" />
+    <col width="20%" />
+    <col width="20%" />
+    <tr>
+        <td>
+            <img src="giovanni_apruzzese.png" width=80%>
+        </td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>
+            <strong>Prof. Giovanni Apruzzese</strong>
+        </td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>
+            Assistant Professor<br>
+            Reykjavik University<br>
+            University of Liechtenstein
+        </td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
 ## Program Committee
 
