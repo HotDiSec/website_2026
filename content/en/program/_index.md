@@ -12,7 +12,9 @@ Lunch break
 
 **13:50–14:40 | Keynote**<br>
 Prof. Giovanni Apruzzese<br>
-*Keynote title to be announced*
+**Misleading Large Language Models used (or misused) in Scientific Peer-Reviewing via Hidden Prompt-Injection Attacks**<br>
+Large Language Models (LLMs) have revolutionized many aspects of our society. Many tasks encompassing document summarization or autonomous content generation can now benefit from the capabilities of LLMs. Among these, a domain in which LLMs are receiving increasing attention is that of scientific peer reviewing. Yet, usage of LLMs in this context must be done with due care: LLMs have certain blind spots which, if exploited, can lead to detrimental effects to the human requesting the service of an LLM. 
+In this talk, I will outline the reasons why the author of a scientific paper may want to mislead an LLM tasked to review a given paper. Based on these reasons, I will then explain ways in which one can reach their goal via "hidden prompt injections". Finally, I will discuss the results of a large-scale systematic analysis wherein we studied the impact of prompt-injection attacks against commercial LLMs (e.g., ChatGPT, Gemini). In doing so, I will also outline potential countermeasures---as well as counter-countermeasures. The takeaway is that blind reliance on LLMs for peer-review duties is strongly discouraged, and human oversight is still necessary.
 
 **14:40–14:50 | Logistics**
 

@@ -38,18 +38,19 @@ weight: 30
  </table>
 
 ## Keynote Speaker ##
-
 <table>
     <col width="20%" />
     <col width="20%" />
     <col width="20%" />
+
     <tr>
         <td>
-            <img src="giovanni_apruzzese.png" width=80%>
+            giovanni_apruzzese.png
         </td>
         <td></td>
         <td></td>
     </tr>
+
     <tr>
         <td>
             <strong>Prof. Giovanni Apruzzese</strong>
@@ -57,6 +58,7 @@ weight: 30
         <td></td>
         <td></td>
     </tr>
+
     <tr>
         <td>
             Assistant Professor<br>
@@ -65,6 +67,25 @@ weight: 30
         </td>
         <td></td>
         <td></td>
+    </tr>
+
+    <tr>
+        <td colspan="3">
+            <br>
+            <strong>Biography</strong>
+            <p>
+                Giovanni Apruzzese is an Assistant Professor within the Department of Computer Science at Reykjavik University, Iceland. Prior to this, he was affiliated with the Hilti Chair of Data and Application Security at the University of Liechtenstein, first as a PostDoc and then as an Assistant Professor. He obtained his PhD in Information and Communication Technologies from the University of Modena and Reggio Emilia, Italy, in 2020.
+            </p>
+            <p>
+                He has authored over 50 peer-reviewed papers at internationally recognized research venues. His research interests encompass a variety of themes, most of which revolve around cybersecurity and artificial intelligence, while also including topics within human-computer interaction. His primary expertise lies in network security and phishing detection.
+            </p>
+            <p>
+                Giovanni also puts considerable effort into serving the scientific community and has received numerous recognitions for his reviewing duties at leading computer science venues. He is the General Chair of IEEE SaTML 2027, one of the PC Co-Chairs of ACM AISec 2026, and one of the PC Vice-Chairs of USENIX Security 2026. He has also been an Associate Editor for ACM TAISAP since 2025 and an Area Chair for NeurIPS since 2024.
+            </p>
+            <p>
+                Driven by his interest in reviewing and his service commitments, he has recently also engaged in research on the use of large language models for scientific peer review.
+            </p>
+        </td>
     </tr>
 </table>
 
