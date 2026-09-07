@@ -46,7 +46,7 @@ weight: 30
 <col width="20%" />
 <col width="20%" />
 <tr>
-<td>giovanni_apruzzese.png</td>
+<td><img src="giovanni_apruzzese.png" width=80%></td>
 <td></td>
 <td></td>
 </tr>
