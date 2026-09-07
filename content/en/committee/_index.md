@@ -39,8 +39,6 @@ weight: 30
 
 ## Keynote Speaker ##
 
-## Keynote Speaker ##
-
 <table>
 <col width="20%" />
 <col width="20%" />
@@ -67,9 +65,9 @@ University of Liechtenstein
 <tr>
 <td colspan="3">
 <strong>Biography</strong><br><br>
-Giovanni Apruzzese is an Assistant Professor within the Department of Computer Science at Reykjavik University, Iceland. Prior to this, he was affiliated with the Hilti Chair of Data and Application Security at the University of Liechtenstein, first as a PostDoc and then as an Assistant Professor. He obtained the PhD in Information and Communication Technologies at the University of Modena and Reggio Emilia, Italy, in 2020.<br><br>
-He authored over 50 peer-reviewed papers at internationally recognized research venues. His research interests encompass a variety of themes, most of which revolve around cybersecurity and artificial intelligence, but he also appreciates topics within human-computer interaction. His primary expertise lies in network security and phishing detection.<br><br>
-Giovanni also puts considerable effort into serving the scientific community, and he has received numerous recognitions for his reviewing duties at leading computer science venues. He is the General Chair of IEEE SaTML 2027, one of the PC Co-Chairs of ACM AISec 2026, one of the PC Vice-Chairs of USENIX Security 2026, and has been an Associate Editor for ACM TAISAP since 2025 and an Area Chair for NeurIPS since 2024.<br><br>
+Giovanni Apruzzese is an Assistant Professor within the Department of Computer Science at Reykjavik University, Iceland. Prior to this, he was affiliated with the Hilti Chair of Data and Application Security at the University of Liechtenstein, first as a PostDoc and then as an Assistant Professor. He obtained the PhD in Information and Communication Technologies at the University of Modena and Reggio Emilia, Italy, in 2020.
+He authored over 50 peer-reviewed papers at internationally recognized research venues. His research interests encompass a variety of themes, most of which revolve around cybersecurity and artificial intelligence, but he also appreciates topics within human-computer interaction. His primary expertise lies in network security and phishing detection.
+Giovanni also puts considerable effort into serving the scientific community, and he has received numerous recognitions for his reviewing duties at leading computer science venues. He is the General Chair of IEEE SaTML 2027, one of the PC Co-Chairs of ACM AISec 2026, one of the PC Vice-Chairs of USENIX Security 2026, and has been an Associate Editor for ACM TAISAP since 2025 and an Area Chair for NeurIPS since 2024.
 Due to his interest in reviewing and his service commitments, he has also recently engaged in researching the use of large language models for scientific peer review.
 </td>
 </tr>
